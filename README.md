@@ -1,4 +1,9 @@
 Welcome
+***
+## Java
+No.1:[○×クイズ(Java Spring)](https://github.com/Shohei-Kato1026/Java-Spring_quiz)
+
+![Image](https://github.com/user-attachments/assets/651b7af5-8178-4b10-a3b2-31be6f00bee9)
 
 ***
 ##  [JavaScript1](https://github.com/Shohei-Kato1026/ReeactTest1)
